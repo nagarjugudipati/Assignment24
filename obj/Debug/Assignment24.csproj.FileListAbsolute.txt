@@ -1,0 +1,11 @@
+D:\Mphasis\Day-21\Assignment24\Assignment24\bin\Debug\Assignment24.exe.config
+D:\Mphasis\Day-21\Assignment24\Assignment24\bin\Debug\Assignment24.exe
+D:\Mphasis\Day-21\Assignment24\Assignment24\bin\Debug\Assignment24.pdb
+D:\Mphasis\Day-21\Assignment24\Assignment24\bin\Debug\Assignment24Lib.dll
+D:\Mphasis\Day-21\Assignment24\Assignment24\bin\Debug\Assignment24Lib.pdb
+D:\Mphasis\Day-21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.AssemblyReference.cache
+D:\Mphasis\Day-21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Day-21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CoreCompileInputs.cache
+D:\Mphasis\Day-21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CopyComplete
+D:\Mphasis\Day-21\Assignment24\Assignment24\obj\Debug\Assignment24.exe
+D:\Mphasis\Day-21\Assignment24\Assignment24\obj\Debug\Assignment24.pdb
